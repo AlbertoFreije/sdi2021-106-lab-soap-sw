@@ -32,8 +32,8 @@
 		<dependency>
 			<groupId>wsdl4j</groupId>
 			<artifactId>wsdl4j</artifactId>
+			
 		</dependency>
-		
 	</dependencies>
 
 	<build>
